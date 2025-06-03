@@ -221,12 +221,12 @@ const gallery = {
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/admin.png",
+      src: "/images/gallery/admin3.png",
       alt: "image",
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/admin.png",
+      src: "/images/gallery/iconadmin1.webp",
       alt: "image",
       orientation: "horizontal",
     },
